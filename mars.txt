@@ -1,3 +1,4 @@
 This file detauls the experiments that will be done on the next two mars lander.
 
-This lander will have an y-ray spectrometer
+This lander will have an y-ray and z-ray spectrometer
+

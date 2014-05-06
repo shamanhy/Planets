@@ -1,1 +1,1 @@
-This file detauls the experiments that will be done on the next mars lander.
+This file detauls the experiments that will be done on the next two mars lander.
